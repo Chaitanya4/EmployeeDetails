@@ -1,5 +1,5 @@
-# Student_CRUD_API
-REST API build using NodeJS, Express and Mongodb for creating, reading, updating and deleting student data.
+# Employee_CRUD_API
+REST API build using NodeJS, Express and Mongodb for creating, reading, updating and deleting employee data.
 
 Run the project using:
 node server.js
